@@ -1,3 +1,4 @@
 one line
 Added a new branch
 Added another line
+Master line added on line 4
